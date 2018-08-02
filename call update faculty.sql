@@ -1,0 +1,1 @@
+call `update_faculty_procedure`(' jode1', 'Johnny', 'Depp', '3', 'assistant professor','Electrical Engineering');

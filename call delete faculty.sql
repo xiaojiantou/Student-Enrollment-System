@@ -1,0 +1,1 @@
+call `delete_faculty_procedure`('riki1')

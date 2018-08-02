@@ -1,0 +1,1 @@
+call `update_student_procedure` ('kach1','Kai', 'Chen', 'Engineering', 2017, 'KAICHEN@Nulla.com');

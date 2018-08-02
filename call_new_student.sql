@@ -1,0 +1,14 @@
+call `new_student_procedure`('Ori' , 'Aboodi', 'Engineering', 2017, 'Vestibulum@Integer.net');
+call `new_student_procedure`('Kai', 'Chen', 'Engineering', 2018, 'ultrices@Nulla.com');
+call `new_student_procedure`('Dominick', 'DeLucia', 'Law', 2018, 'ante@Donecelementum.net');
+call `new_student_procedure`('Rui', 'Ge', 'Business', 2017,'consequat@metusAeneansed.com');
+call `new_student_procedure`('Haoyu', 'He', 'Business', 2017, 'orci@anteiaculis.net');
+call `new_student_procedure`('Jennifer', 'Huang', 'Arts', 2016, 'nec@lorem.com');
+call `new_student_procedure`('Sharon', 'Li', 'Engineering', 2017, 'cursus@eu.edu');
+call `new_student_procedure`('Yinuo', 'Li', 'Business', 2018, 'pede@nulla.net');
+call `new_student_procedure`('Yao', 'Li', 'Business', 2017, 'adipiscing@commodoatlibero.ca');
+call `new_student_procedure`('Jiayi', 'Peng', 'Business', 2017, 'velit.dui.semper@primis.org');
+call `new_student_procedure`('Jake', 'Petterson', 'Journalism', 2017, 'Donec.egestas@justonec.ca');
+call `new_student_procedure`('Ju', 'Puljic', 'DentalMedicine', 2018, 'a.auctor.non@euerosNam.net');
+call `new_student_procedure`('Yiyang', 'Qian', 'Business', 2017, 'quis.pede@auctorquis.net');
+call `new_student_procedure`('Sikai', 'Zhou', 'Engineering', 2017, 'egestas.ligula@euismodestarcu.ca');

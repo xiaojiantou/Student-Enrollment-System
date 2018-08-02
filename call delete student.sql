@@ -1,0 +1,1 @@
+call `delete_student_procedure` ('orab1');
