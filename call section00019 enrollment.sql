@@ -1,0 +1,14 @@
+call `new_participant` ('ruge1','00019');
+call `new_participant` ('jipe1','00019');
+call `new_participant` ('hahe1','00019');
+call `new_participant` ('jupu1','00019');
+call `new_participant` ('yiqi1','00019');
+call `new_participant` ('yili1','00019');
+call `new_participant` ('sizh1','00019');
+call `new_participant` ('dode1','00019');
+call `new_participant` ('jape1','00019');
+call `new_participant` ('jupu1','00019');
+call `new_participant` ('jehu1','00019');
+call `new_participant` ('yali1','00019');
+call `new_participant` ('jehu1','00019');
+call `new_participant` ('shli1','00019');
