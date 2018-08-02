@@ -1,0 +1,1 @@
+CREATE ALGORITHM=UNDEFINED DEFINER=`root`@`localhost` SQL SECURITY DEFINER VIEW `facultyall` AS select `person`.`last_name` AS `last_name`,`person`.`first_name` AS `first_name`,`person`.`UNI` AS `uni`,`faculty`.`pay_grade` AS `pay_grade`,`faculty`.`title` AS `title`,`faculty`.`department` AS `department` from (`person` join `faculty`) where (`person`.`UNI` = `faculty`.`UNI`)
